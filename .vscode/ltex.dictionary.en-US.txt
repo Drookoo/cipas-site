@@ -1,1 +1,6 @@
 img
+td
+href
+li
+ul
+fa-facebook-f
